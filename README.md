@@ -1844,6 +1844,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
+- [LGD-Eval / lgd-gate](https://github.com/LGD-Eval/lgd-gate) — Independent third-party evaluator for AI Agent Skills. 18 dimensions, zero-config, offline-first. Scan, score, and gate any Claude/Cursor/Codex skill before you install it.
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
